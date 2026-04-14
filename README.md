@@ -1,0 +1,2 @@
+This repository contains numerical excercises (Jupyter Notebooks) used for teaching courses "Tomography and Inverse Scattering problem"
+and "Pseudo-Differential Operators and their applications" in MIPT during years 2018-2022.
